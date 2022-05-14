@@ -37,10 +37,10 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 1. Import SQL database into Pandas
 
-2. Create a [histogram](EmployeeSQL/Salary_Distribution.png) to visualize the most common salary ranges for employees.
+2. Create a [histogram](EmployeeSQL/SQLQuery/Salary_Distribution.png) to visualize the most common salary ranges for employees.
 
-![Salary_Distribution.png](EmployeeSQL/Salary_Distribution.png)
+![Salary_Distribution.png](EmployeeSQL/SQLQuery/Salary_Distribution.png)
 
-3. Create a [bar chart](EmployeeSQL/Average_Salary_Title.png) of average salary by title.
+3. Create a [bar chart](EmployeeSQL/SQLQuery/Average_Salary_Title.png) of average salary by title.
 
-![Average_Salary_Title.png](EmployeeSQL/Average_Salary_Title.png)
+![Average_Salary_Title.png](EmployeeSQL/SQLQuery/Average_Salary_Title.png)
