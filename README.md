@@ -2,7 +2,7 @@
 # Employee Database: Historical Data Analysis
 
 ## Description
-As a new data scientist, the challenge was a research project on Pewlett Hackard employees from the 19802 and 1990s using SQL: data modeling, data engineering, and data anlysis. The challenge utlizized data modeling, engineering, and analysis to build a SQL database with six tables. Using employee data from historical csv files, the database and tables were sucessfully imported.
+As a new data engineer, the challenge was a research project on Pewlett Hackard employees from the 1980s and 1990s using SQL: data modeling, data engineering, and data anlysis. The challenge utlizized data modeling, engineering, and analysis to build a SQL database with six tables. Using employee data from historical csv files, the database and tables were sucessfully imported.
 
 ## Data Modeling
  - Inspect CSV files
